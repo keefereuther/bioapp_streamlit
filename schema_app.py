@@ -260,9 +260,9 @@ for resource in resources:
 with st.sidebar:
     st.markdown("---")
 
-    st.markdown("""
-        This app is managed by Keefe Reuther - [https://reutherlab.biosci.ucsd.edu/](https://reutherlab.biosci.ucsd.edu/)
-    """)
+    # st.markdown("""
+        # This app is managed by Keefe Reuther - [https://reutherlab.biosci.ucsd.edu/](https://reutherlab.biosci.ucsd.edu/)
+    # """)
     st.markdown("""
         It can be found at [https://github.com/keefereuther/bioapp_streamlit](https://github.com/keefereuther/bioapp_streamlit) 
         and is distributed under the GNU GPL-3 License.
